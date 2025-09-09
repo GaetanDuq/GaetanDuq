@@ -7,7 +7,7 @@
 ---
 
 ## 🌟 About Me
-- 🔭 I’m currently working on **[Centsible](centsible)** — a finance tracker with a friendly AI assistant “Centi”  
+- 🔭 I’m currently working on **[Centsible](https://github.com/GaetanDuq/centsible)** — a finance tracker with a friendly AI assistant “Centi”  
 - 🤝 I’m looking to collaborate on **creative LLM-powered projects** (apps, chatbots, AI tools)  
 - 💬 Ask me about **Ruby on Rails, JavaScript, Vue.js, GSAP, AI integrations**  
 - 🌱 I’m currently learning **PHP & Vue.js** to prep for my next challenge  
