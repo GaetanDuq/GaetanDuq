@@ -45,9 +45,7 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Excalidraw](https://img.shields.io/badge/Excalidraw-6965DB?style=for-the-badge)
 
-
 ---
-
 
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/gaetanduquesnoy)  
