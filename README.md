@@ -1,6 +1,6 @@
 # Hi 👋 I'm Gaëtan
 
-💡 A passionate Full-stack developer from France, based in Japan  
+💡 An emerging Full-stack developer from France, based in Japan  
 🌱 Currently diving deep into **PHP** and **Vue.js** after completing Le Wagon’s 9-week Web Development Bootcamp  
 🚀 Entrepreneurial mindset – building apps that are playful, user-friendly, and AI-powered  
 
