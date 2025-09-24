@@ -11,7 +11,6 @@
 - 🤝 I’m looking to collaborate on **creative LLM-powered projects** (apps, chatbots, AI tools)  
 - 💬 Ask me about **Ruby on Rails, JavaScript, Vue.js, GSAP, AI integrations**  
 - 🌱 I’m currently learning **PHP & Vue.js** to prep for my next challenge  
-- ⚡ Fun fact: *I think I’m funny, but the AI laughs at all my jokes anyway*  
 
 ---
 
